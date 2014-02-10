@@ -1,0 +1,16 @@
+New RK30xx and RK29xx Kernel Dev : PROTOX 109/Paltrickontpb
+
+New Boot Sequence
+Wakelocks management
+Power efficiency
+Increased No of modules
+New ethernet and Bluetooth Modules added
+New Wifi Driver Implemented
+
+DEBUG v1 : Yet to be tested
+
+WARNING : DO NOT COPY MY WORK !! I HAVE UPLOADED SOME EXTRA THINGS IN IT SO THAT I CAN IDENTIFY THE COPIES
+
+TRY AT YOUR OWN RISK UNTIL I HAVE CLEARED IT TO BE ABSOLUTELY OK
+
+- PROTOX 109 / Paltrickontpb
